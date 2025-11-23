@@ -1,0 +1,361 @@
+[
+  {
+    "nome": "JavaScript",
+    "descricao": "O JS é a linguagem da web.",
+    "ano": 1995,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+  },
+  {
+    "nome": "Python",
+    "descricao": "O Python é a linguagem da ciência de dados e IA.",
+    "ano": 1991,
+    "link": "https://docs.python.org/pt-br/3.14/"
+  },
+  {
+    "nome": "Java",
+    "descricao": "Java é uma linguagem versátil e orientada a objetos, popular para aplicações empresariais e desenvolvimento Android.",
+    "ano": 1995,
+    "link": "https://dev.java/learn/"
+  },
+  {
+    "nome": "C#",
+    "descricao": "Criada pela Microsoft, C# é usada para aplicações Windows, desenvolvimento web com .NET e jogos na engine Unity.",
+    "ano": 2000,
+    "link": "https://learn.microsoft.com/pt-br/dotnet/csharp/"
+  },
+  {
+    "nome": "PHP",
+    "descricao": "PHP é uma linguagem de script do lado do servidor muito usada para desenvolvimento web, sendo a base de plataformas como o WordPress.",
+    "ano": 1995,
+    "link": "https://www.php.net/"
+  },
+  {
+    "nome": "TypeScript",
+    "descricao": "Um superconjunto de JavaScript que adiciona tipagem estática, melhorando a manutenibilidade de grandes projetos.",
+    "ano": 2012,
+    "link": "https://www.typescriptlang.org/"
+  },
+  {
+    "nome": "Go",
+    "descricao": "Criada pelo Google, Go (ou Golang) é conhecida por sua simplicidade, eficiência e forte suporte à concorrência.",
+    "ano": 2009,
+    "link": "https://go.dev/"
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Rust é uma linguagem focada em segurança de memória e alto desempenho, ideal para programação de sistemas.",
+    "ano": 2010,
+    "link": "https://www.rust-lang.org/pt-BR"
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem moderna que se tornou a preferida para o desenvolvimento de aplicativos Android nativos.",
+    "ano": 2011,
+    "link": "https://kotlinlang.org/"
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Um framework progressivo para a construção de interfaces de usuário, focado em facilidade de uso e desempenho.",
+    "ano": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "interface de usuário",
+      "MVVM"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma para desenvolver, enviar e executar aplicações dentro de contêineres virtualizados leves.",
+    "ano": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "contêineres",
+      "devops",
+      "virtualização",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Kubernetes (K8s)",
+    "descricao": "Sistema de código aberto para automatizar a implantação, escalonamento e gerenciamento de aplicações em contêineres.",
+    "ano": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "orquestração",
+      "devops",
+      "cloud",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Um sistema de gerenciamento de banco de dados relacional (SQL) de código aberto, robusto e extensível.",
+    "ano": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados",
+      "SQL",
+      "relacional",
+      "persistência"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Um banco de dados NoSQL orientado a documentos, projetado para escalabilidade e desenvolvimento ágil.",
+    "ano": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "banco de dados",
+      "NoSQL",
+      "documentos",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "Spring Boot",
+    "descricao": "Um framework para simplificar a criação de aplicações Spring autônomas e de nível de produção.",
+    "ano": "2014",
+    "link": "https://spring.io/projects/spring-boot",
+    "tags": [
+      "framework",
+      "backend",
+      "microserviços",
+      "servidor"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Um compilador de UI que move o trabalho reativo para a etapa de construção, resultando em menos código de tempo de execução.",
+    "ano": "2016",
+    "link": "https://svelte.dev/",
+    "tags": [
+      "framework",
+      "frontend",
+      "compilador",
+      "desempenho"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de código aberto para provisionar e gerenciar infraestrutura como código (IaC) de forma segura e eficiente.",
+    "ano": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "devops",
+      "infraestrutura",
+      "IaC",
+      "cloud",
+      "automatização"
+    ]
+  },
+  {
+    "nome": "Ansible",
+    "descricao": "Um motor de automação de código aberto para provisionamento de software, gerenciamento de configuração e implantação de aplicativos.",
+    "ano": "2012",
+    "link": "https://www.ansible.com/",
+    "tags": [
+      "automação",
+      "devops",
+      "gerenciamento de configuração",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Um ambiente de tempo de execução de código aberto e multiplataforma para executar código de servidor de forma não bloqueante.",
+    "ano": "2009",
+    "link": "https://nodejs.org/",
+    "tags": [
+      "runtime",
+      "backend",
+      "assíncrono",
+      "multiplataforma"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Um armazenamento de estrutura de dados em memória, usado como cache, broker de mensagens e banco de dados.",
+    "ano": "2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "banco de dados",
+      "NoSQL",
+      "cache",
+      "em memória"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Uma linguagem de consulta de dados e manipulação para APIs, permitindo que os clientes solicitem exatamente os dados de que precisam.",
+    "ano": "2012",
+    "link": "https://graphql.org/",
+    "tags": [
+      "API",
+      "linguagem de consulta",
+      "backend",
+      "protocolo"
+    ]
+  },
+  {
+    "nome": "Dart",
+    "descricao": "Uma linguagem de programação otimizada para cliente para aplicativos web, móveis e desktop, desenvolvida pelo Google.",
+    "ano": "2011",
+    "link": "https://dart.dev/",
+    "tags": [
+      "linguagem de programação",
+      "multiplataforma",
+      "cliente",
+      "orientada a objetos"
+    ]
+  },
+  {
+    "nome": "Flutter",
+    "descricao": "Um kit de ferramentas de UI do Google para construir aplicações nativamente compiladas para celular, web e desktop a partir de uma única base de código.",
+    "ano": "2017",
+    "link": "https://flutter.dev/",
+    "tags": [
+      "framework",
+      "mobile",
+      "UI",
+      "multiplataforma",
+      "widget"
+    ]
+  },
+  {
+    "nome": "Scala",
+    "descricao": "Uma linguagem de programação que combina paradigmas orientados a objetos e funcionais, rodando na JVM.",
+    "ano": "2004",
+    "link": "https://www.scala-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "JVM",
+      "funcional",
+      "backend"
+    ]
+  },
+  {
+    "nome": "Swift",
+    "descricao": "Uma poderosa linguagem de programação intuitiva e rápida, desenvolvida pela Apple para construir apps para iOS, macOS, watchOS, e tvOS.",
+    "ano": "2014",
+    "link": "https://www.swift.org/",
+    "tags": [
+      "linguagem de programação",
+      "mobile",
+      "Apple",
+      "compilada"
+    ]
+  },
+  {
+    "nome": "Elixir",
+    "descricao": "Uma linguagem funcional dinâmica construída sobre a máquina virtual Erlang (BEAM), conhecida por construir sistemas escaláveis e tolerantes a falhas.",
+    "ano": "2012",
+    "link": "https://elixir-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "funcional",
+      "backend",
+      "concorrência"
+    ]
+  },
+  {
+    "nome": "Phoenix",
+    "descricao": "Um framework web produtivo que não sacrifica a velocidade, construído sobre Elixir e rodando na BEAM.",
+    "ano": "2015",
+    "link": "https://www.phoenixframework.org/",
+    "tags": [
+      "framework",
+      "backend",
+      "web",
+      "elixir",
+      "em tempo real"
+    ]
+  },
+  {
+    "nome": "Kafka",
+    "descricao": "Uma plataforma de streaming de eventos distribuída projetada para lidar com feeds de dados em tempo real.",
+    "ano": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "streaming",
+      "mensageria",
+      "dados",
+      "backend"
+    ]
+  },
+  {
+    "nome": "Elasticsearch",
+    "descricao": "Um motor de busca e análise distribuído, projetado para escalabilidade, velocidade e relevância em grandes volumes de dados.",
+    "ano": "2010",
+    "link": "https://www.elastic.co/",
+    "tags": [
+      "busca",
+      "análise",
+      "banco de dados",
+      "full-text"
+    ]
+  },
+  {
+    "nome": "Git",
+    "descricao": "Sistema de controle de versão distribuído, focado em velocidade, integridade dos dados e suporte a fluxos de trabalho distribuídos.",
+    "ano": "2005",
+    "link": "https://git-scm.com/",
+    "tags": [
+      "controle de versão",
+      "ferramenta",
+      "colaboração",
+      "desenvolvimento"
+    ]
+  },
+  {
+    "nome": "Jenkins",
+    "descricao": "Um servidor de automação de código aberto que ajuda a automatizar partes do processo de desenvolvimento de software, como CI/CD.",
+    "ano": "2011",
+    "link": "https://www.jenkins.io/",
+    "tags": [
+      "CI/CD",
+      "automação",
+      "devops",
+      "servidor"
+    ]
+  },
+  {
+    "nome": "AWS Lambda",
+    "descricao": "Um serviço de computação serverless orientado a eventos que executa código em resposta a eventos.",
+    "ano": "2014",
+    "link": "https://aws.amazon.com/lambda/",
+    "tags": [
+      "serverless",
+      "cloud",
+      "FaaS",
+      "computação"
+    ]
+  },
+  {
+    "nome": "Angular",
+    "descricao": "Um framework robusto, baseado em componentes, para construir aplicações web grandes e escaláveis.",
+    "ano": "2016",
+    "link": "https://angular.io/",
+    "tags": [
+      "framework",
+      "frontend",
+      "SPA",
+      "Google",
+      "MVVM"
+    ]
+  },
+  {
+    "nome": "Solidity",
+    "descricao": "Uma linguagem de programação orientada a contratos para implementar lógica em Smart Contracts na Ethereum e outras plataformas blockchain.",
+    "ano": "2014",
+    "link": "https://soliditylang.org/",
+    "tags": [
+      "linguagem de programação",
+      "blockchain",
+      "smart contracts",
+      "Ethereum",
+      "web3"
+    ]
+  }
+]
